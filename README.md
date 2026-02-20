@@ -1,4 +1,4 @@
-I created a PowerShell script that queries the wigle.net's API searching for well-known pacemaker manufacturers MAC addresses.
+I created a PowerShell script that queries the wigle.net's API searching for well-known pacemaker manufacturers MAC addresses in the hopes it might be useful to Law Enforcement and the FBI.
 
 Currently, the script is using the following coordinates:
 
