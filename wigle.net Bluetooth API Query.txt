@@ -1,5 +1,12 @@
 <#
 
+1. Save this .txt file and rename it to .ps1
+2. Populate your API Name
+3. Populate your API Token
+4. Modify $lat1, $lat2, $lon1, $lon2
+5. Save and execute the script
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------
 GROK output:
 There are primarily 4 to 5 major manufacturers of pacemakers actively supplying the US market as of 2026, based on market share data,
