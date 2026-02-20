@@ -1,10 +1,13 @@
 I created a PowerShell script that queries the wigle.net's API searching for well-known pacemaker manufacturers MAC addresses.
 
 Currently, the script is using the following coordinates:
-20.712  # Lesser Latitude
-34.789  # Greater Latitude
--100.006 # Lesser Longitude
--118.935 # Greater Longitude
+
+| Coordinates | Description |
+|--------------|---------------------|
+| 20.712  | Lesser Latitude |
+| 34.789  | Greater Latitude |
+| -100.006 | Lesser Longitude |
+| -118.935 | Greater Longitude |
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 GROK output:
